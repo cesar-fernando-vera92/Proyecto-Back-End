@@ -1,1 +1,11 @@
+# Secretos
+.env
+
+# Dependencias
 node_modules/
+
+# Logs
+*.log
+
+# Archivos de sistema
+.DS_Store
